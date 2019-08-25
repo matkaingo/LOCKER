@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360">
+	<defs>
+		<linearGradient id="grd1" gradientUnits="userSpaceOnUse"  x1="148.854" y1="115.16" x2="157.564" y2="94.64">
+			<stop offset="0" stop-color="#000000"  />
+			<stop offset="1" stop-color="#ffffff"  />
+		</linearGradient>
+		<linearGradient id="grd2" gradientUnits="userSpaceOnUse"  x1="54.933" y1="183.553" x2="76.167" y2="133.53">
+			<stop offset="0" stop-color="#000000"  />
+			<stop offset="1" stop-color="#ffffff"  />
+		</linearGradient>
+		<linearGradient id="grd3" gradientUnits="userSpaceOnUse"  x1="204.548" y1="190.709" x2="178.602" y2="150.756">
+			<stop offset="0" stop-color="#000000"  />
+			<stop offset="1" stop-color="#ffffff"  />
+		</linearGradient>
+		<linearGradient id="grd4" gradientUnits="userSpaceOnUse"  x1="162.396" y1="144.95" x2="161.364" y2="133.15">
+			<stop offset="0" stop-color="#000000"  />
+			<stop offset="1" stop-color="#ffffff"  />
+		</linearGradient>
+		<linearGradient id="grd5" gradientUnits="userSpaceOnUse"  x1="154.085" y1="168.638" x2="152.846" y2="154.482">
+			<stop offset="0" stop-color="#000000"  />
+			<stop offset="1" stop-color="#ffffff"  />
+		</linearGradient>
+		<linearGradient id="grd6" gradientUnits="userSpaceOnUse"  x1="0" y1="0" x2="0" y2="0">
+			<stop offset="0" stop-color="#000000"  />
+			<stop offset="1" stop-color="#ffffff"  />
+		</linearGradient>
+		<linearGradient id="grd7" gradientUnits="userSpaceOnUse"  x1="0" y1="0" x2="0" y2="0">
+			<stop offset="0" stop-color="#000000"  />
+			<stop offset="1" stop-color="#ffffff"  />
+		</linearGradient>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #fefefe;stroke: url(#grd1);paint-order:stroke fill markers;stroke-width: 8.8 } 
+		.shp1 { fill: #fefefe;stroke: url(#grd2);paint-order:stroke fill markers;stroke-width: 8.8 } 
+		.shp2 { fill: #fefefe;stroke: url(#grd3);paint-order:stroke fill markers;stroke-width: 8.8 } 
+		.shp3 { fill: #fefefe;stroke: url(#grd4);paint-order:stroke fill markers;stroke-width: 8.8 } 
+		.shp4 { fill: #fefefe;stroke: url(#grd5);paint-order:stroke fill markers;stroke-width: 8.8 } 
+		.txt5 { font-size: 84px;fill: rgb(253,253,253);font-family: "Deja Vu Sans";font-weight: bold } 
+		.shp6 { fill: #fefefe;stroke: url(#grd6);paint-order:stroke fill markers;stroke-width: 8.8 } 
+		.shp7 { fill: #fefefe;stroke: url(#grd7);paint-order:stroke fill markers;stroke-width: 8.8 } 
+	</style>
+	<path id="Forma 1" class="shp0" d="M187.98,108.5l0.04,-5l-120,-1l-0.04,5z" />
+	<path id="Forma 2" class="shp1" d="M61.5,223.92l5,0.17l4,-119l-5,-0.17z" />
+	<path id="Forma 4" class="shp2" d="M177.5,230.88l4.99,0.24l6,-123l-4.99,-0.24z" />
+	<path id="Forma 5" class="shp3" d="M149,141.5v-5h-46v5z" />
+	<path id="Forma 6" class="shp4" d="M142.93,164.5l0.14,-5l-37,-1l-0.14,5z" />
+	<text id="LOCKER " style="transform: matrix(1,0,0,1,235,105.375)" >
+		<tspan x="0" y="84" class="txt5">LOCKER</tspan>
+	</text>
+	<path id="Forma 3" class="shp6" d="null" />
+	<path id="Forma 2" class="shp7" d="null" />
+</svg>
